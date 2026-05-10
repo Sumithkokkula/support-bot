@@ -1,0 +1,25 @@
+COMPANY: ShopEase - Online Shopping Support
+
+Q: How do I track my order?
+A: You can track your order by visiting our website, clicking "My Orders", and entering your order ID. Tracking updates every 24 hours.
+
+Q: How do I return a product?
+A: Returns are accepted within 30 days of delivery. Go to "My Orders", select the item, and click "Return". We'll send a pickup agent within 2 days.
+
+Q: My payment failed but money was deducted. What do I do?
+A: Don't worry — if payment failed, any deducted amount is automatically refunded within 5-7 business days. If not received, contact us with your transaction ID.
+
+Q: How do I cancel my order?
+A: Orders can be cancelled before they are shipped. Go to "My Orders" and click "Cancel". If already shipped, wait for delivery and then initiate a return.
+
+Q: How long does delivery take?
+A: Standard delivery takes 3-5 business days. Express delivery takes 1-2 business days.
+
+Q: My product arrived damaged. What should I do?
+A: Please take a photo and report it within 48 hours via "My Orders" > "Report Issue". We'll send a replacement immediately.
+
+Q: How do I change my delivery address?
+A: Go to "My Orders" > "Edit Address" before the order ships. Once shipped, address changes are not possible.
+
+Q: Do you offer Cash on Delivery?
+A: Yes! COD is available for orders under ₹5000 in selected cities. You'll see the option at checkout.
