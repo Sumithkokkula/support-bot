@@ -1,5 +1,4 @@
 COMPANY: ShopEase - Online Shopping Support
-
 Q: How do I track my order?
 A: You can track your order by visiting our website, clicking "My Orders", and entering your order ID. Tracking updates every 24 hours.
 
