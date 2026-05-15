@@ -128,8 +128,6 @@ if user_input:
         st.session_state.resolved += 1
 
     st.rerun()
-
-# Sidebar
 with st.sidebar:
     st.markdown("## 🛍️ ShopEase Support")
     st.markdown("---")
