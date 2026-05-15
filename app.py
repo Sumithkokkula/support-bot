@@ -1,6 +1,5 @@
 import streamlit as st
 from bot import get_bot_response
-
 st.set_page_config(
     page_title="ShopEase Support",
     page_icon="🛍️",
@@ -45,14 +44,13 @@ st.markdown("""
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
     </style>
-""", unsafe_allow_html=True)
-
+, unsafe_allow_html=True)
 st.markdown("""
     <div class="header-box">
         <h1>🛍️ ShopEase Support</h1>
         <p>Hi! I'm Alex, your personal support assistant. How can I help you today?</p>
     </div>
-""", unsafe_allow_html=True)
+, unsafe_allow_html=True)
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
